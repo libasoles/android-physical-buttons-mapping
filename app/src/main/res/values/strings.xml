@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FakePowerOff</string>
+    <string name="view_label">Fake Power Off</string>
+    <string name="grant_permission">Grant permission</string>
+</resources>
